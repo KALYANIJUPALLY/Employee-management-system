@@ -1,7 +1,7 @@
 # Employee-management-system
 The Employee Management System is a web-based application that helps companies manage employee records efficiently. It provides CRUD (Create, Read, Update, Delete) operations to track employee details, such as name, position, department, salary, and contact information.
 
-🔧 Features
+# Features
 👤 Add new employees
 
 📋 View a list of all employees
@@ -15,15 +15,14 @@ The Employee Management System is a web-based application that helps companies m
 🖥️ Clean, responsive UI
 
 💻 Technologies Used
-Replace with actual stack used (Flask, Node.js, etc.)
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
-Backend: Python (Flask) / Node.js / Java (Spring Boot)
+Backend: Python (Flask)
 
-Database: SQLite / MySQL / MongoDB
+Database: SQLite / MySQL
 
-🏁 Getting Started
+# Getting Started
 1. Clone the repository
 bash
 Copy
@@ -58,29 +57,16 @@ Edit
 npm start
 Then open your browser and visit http://localhost:5000 or http://localhost:3000.
 
-📂 Project Structure
-csharp
-Copy
-Edit
-employee-management-system/
-├── templates/             # HTML templates (if Flask)
-├── static/                # CSS, JS, image files
-├── app.py / server.js     # Main backend server
-├── models/                # Database models
-├── routes/                # Application routes
-├── db/                    # Database or migrations
-├── README.md              # Project documentation
-└── requirements.txt       # Dependencies
-📌 Future Enhancements
+# Future Enhancements
 Authentication and admin login
 
 Export employee data to Excel or PDF
 
-Cloud deployment (Render, Heroku, etc.)
+Cloud deployment 
 
 REST API for external integrations
 
-🧑‍💻 Author
+# Author
 Name: Kalyani Jupally
 
 Contact: kalyani.jupally12@gmail.com
