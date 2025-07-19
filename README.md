@@ -57,6 +57,22 @@ Edit
 npm start
 Then open your browser and visit http://localhost:5000 or http://localhost:3000.
 
+1.Download the Database File
+File: db_employeemanagement.sql
+2. Create a New Database
+Name the database: db_employeemanagement.
+3. Import the Database
+Use the downloaded .sql file to import into the newly created database.
+4. Default Admin Email and Password
+Email: superadmin@gmail.com
+Password: superadmin@gmail.com
+5. Show Your Support
+👉 Don’t forget to give a ⭐ on the repository! Your support encourages me to develop and share more public source code.
+6. 👉 Enjoy the Application!
+UI Design
+Employee Management System with core PHP & MySQL
+<img width="1899" height="860" alt="image" src="https://github.com/user-attachments/assets/f7d27a45-9717-42b3-bf14-605f774a38fb" />
+
 # Future Enhancements
 Authentication and admin login
 
