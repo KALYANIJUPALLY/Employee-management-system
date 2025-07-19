@@ -58,10 +58,10 @@ npm start
 Then open your browser and visit http://localhost:5000 or http://localhost:3000.
 
 # Developed with core PHP & MySQL
-
+---
 1.Download the Database File
 File: db_employeemanagement.sql
----
+
 2. Create a New Database
 Name the database: db_employeemanagement.
 ---
